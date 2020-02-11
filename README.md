@@ -26,9 +26,9 @@ make build ... create docker image.
 
 make run ... start flask container.
 
-make tag ... Google Container Registry Name for push
+make tag ... Google Container Registry Name for push.
 
-make push  ... Push to Google Container Registry
+make push  ... Push to Google Container Registry.
 
 ```
 
